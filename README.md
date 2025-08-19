@@ -1,2 +1,2 @@
-# meyeringh.org.github.io
+# meyeringh.org
 Just some fun website
